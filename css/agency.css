@@ -1124,3 +1124,8 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #0061A9;
 }
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
